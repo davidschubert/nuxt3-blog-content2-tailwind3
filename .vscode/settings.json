@@ -1,7 +1,5 @@
 {
-    "cSpell.words": [
-        "composables",
-        "Nuxt",
-        "nuxtjs"
-    ]
+	"cSpell.words": ["composables", "Nuxt", "nuxtjs"],
+	"prettier.tabWidth": 4,
+	"editor.defaultFormatter": "esbenp.prettier-vscode"
 }

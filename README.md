@@ -27,11 +27,7 @@ npm run preview
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment) for more information.
 
-# NuxtTailwind Module
+# Modules
 
-## Install NuxtTailwind Module
+## NuxtTailwind Module
 Checkout the [NuxtTailwind documentation](https://tailwindcss.nuxtjs.org/getting-started/setup) for more information.
-
-```bash
-npm install --save-dev @nuxtjs/tailwindcss
-```

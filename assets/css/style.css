@@ -1,19 +1,19 @@
 @layer base {
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-        @apply font-sans;
-    }
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		@apply font-sans;
+	}
 
-    @font-face {
-        font-family: 'wild_worldbold';
-        src: url("/assets/fonts/wildworld/wild_world-webfont.woff2") format("woff2"), url("/assets/fonts/wildworld/wild_world-webfont.woff") format("woff");
-        font-weight: normal;
-        font-style: normal;
-        font-display: swap;
-    }
+	@font-face {
+		font-family: 'wild_worldbold';
+		src: url('/assets/fonts/wildworld/wild_world-webfont.woff2') format('woff2'),
+			url('/assets/fonts/wildworld/wild_world-webfont.woff') format('woff');
+		font-weight: normal;
+		font-style: normal;
+		font-display: swap;
+	}
 }
-
