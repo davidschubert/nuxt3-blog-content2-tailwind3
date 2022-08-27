@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+<!-- Including our own styles here -->
+@import 'style.css';
