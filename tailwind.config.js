@@ -15,7 +15,7 @@ module.exports = {
 				primary: defaultTheme.colors.green
 			},
 			fontFamily: {
-				sans: ['wild_worldbold', ...defaultTheme.fontFamily.sans]
+				sans: ['PUK', ...defaultTheme.fontFamily.sans]
 			}
 		}
 	},
