@@ -1,5 +1,5 @@
 ---
-title: Foo Bar
+title: 'Foo Bar'
 author: David
 date: 2022-05-27
 ---

@@ -44,3 +44,7 @@ Checkout the [NuxtTailwind documentation](https://tailwindcss.nuxtjs.org/getting
 
 Adding Fonts /assets/fonts/ Directory
 Specify your Font in tailwind.config.js
+
+## Blog Posts
+
+add them to the "/content/" Folder as Markdown Files
